@@ -7,7 +7,7 @@ Hi, I'm Excalibur Aias, just a university student —— An Ordinary Man.
 
 - 🔭 I’m currently working on [my life project](https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life) and [study diary](https://github.com/ExcaliburEX/KeMo).
 - 🌱 I’m currently learning `Distributed Storage`.
-- 👯 I just like playing `Chromatic Harmonica`.
+- 🎼 I just like playing `Chromatic Harmonica`.
 - 🤔 I’m looking for help with the truth of love.
 - 💬 Ask me about anything [here](https://kemo.xyz/about/).
 - 📫 How to reach me: 20195227076@stu.suda.edu.cn
