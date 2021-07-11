@@ -52,7 +52,7 @@ Hi, I'm Excalibur Aias, just a university student —— An Ordinary Man.
 <p align="center">
 
 <a href="https://github.com/ExcaliburEX">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ExcaliburEX&show_icons=true&bg_color=30,4169E1,904e95&cache_seconds=106400&theme=blueberry" align="center" alt="ExcaliburEX's github stats">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ExcaliburEX&&v=4&show_icons=true&bg_color=30,4169E1,904e95&cache_seconds=106400&theme=blueberry" align="center" alt="ExcaliburEX's github stats">
 </a>
 
 </p>
