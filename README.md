@@ -5,6 +5,8 @@
 [![Bilibili](https://img.shields.io/badge/Bilibili-查看-pink)](https://space.bilibili.com/2142109)
 [![博客](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E6%9F%A5%E7%9C%8B-brightgreen)](https://kemo.xyz/)
 
+<img style="display: block;  margin-left: auto;  margin-right: auto;  width: 100%;" src="https://raw.githubusercontent.com/vppillai/vppillai/output/github-contribution-grid-snake.svg" />
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> 
 <!--
 **ExcaliburEX/ExcaliburEX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -27,6 +29,9 @@ Hi, I'm Excalibur Aias, just a university student —— An Ordinary Man.
 </p>
 
 ---
+
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=ExcaliburEX&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="ExcaliburEX's monthly coding activity" />
+
 
 <details>
 <summary><img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" />Click For GitHub Activity Graph</summary>
